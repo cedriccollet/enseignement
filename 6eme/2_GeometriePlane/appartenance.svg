@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="appartenance.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.35622442"
+     inkscape:cx="624.60625"
+     inkscape:cy="152.99344"
+     inkscape:window-width="1296"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="StopL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path11236" />
+    </marker>
+    <marker
+       inkscape:stockid="DistanceEnd"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceEnd"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g2301">
+        <path
+           id="path2316"
+           d="M 0,0 L -2,0"
+           style="fill:none;stroke:context-fill;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2312"
+           d="M 0,0 L -13,4 L -9,0 -13,-4 L 0,0 z "
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2314"
+           d="M 0,-4 L 0,40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="DistanceStart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceStart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g2300">
+        <path
+           id="path2306"
+           d="M 0,0 L 2,0"
+           style="fill:none;stroke:context-fill;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2302"
+           d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z "
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2304"
+           d="M 0,-4 L 0,40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g968"
+       transform="rotate(-45,151.54629,-66.10616)"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.353553,100.35355 40.198177,40.19818"
+         id="path857" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 80.353553,140.55173 120.55174,100.35355"
+         id="path857-3" />
+    </g>
+    <g
+       id="g968-3"
+       transform="rotate(-45,-61.704474,115.50647)"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.353553,100.35355 40.198177,40.19818"
+         id="path857-5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 80.353553,140.55173 120.55174,100.35355"
+         id="path857-3-6" />
+    </g>
+    <path
+       style="fill:#000000;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
+       d="M 12.095844,-18.239227 329.42792,143.46199"
+       id="path1042"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5597px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.938995"
+       x="24.340055"
+       y="41.404427"
+       id="text6349"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan6347"
+         style="stroke-width:0.938995"
+         x="24.340055"
+         y="41.404427">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5597px;line-height:1.25;font-family:sans-serif;fill:#552200;fill-opacity:1;stroke:none;stroke-width:0.938995"
+       x="142.69432"
+       y="35.509686"
+       id="text6349-0"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan6347-6"
+         style="fill:#552200;stroke:none;stroke-width:0.938995"
+         x="142.69432"
+         y="35.509686">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5597px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.938995"
+       x="215.12181"
+       y="139.78828"
+       id="text6349-7"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan6347-0"
+         style="stroke-width:0.938995"
+         x="215.12181"
+         y="139.78828">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5597px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.938995"
+       x="63.080036"
+       y="-59.855743"
+       id="text6349-1"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan6347-2"
+         style="fill:#000080;stroke-width:0.938995"
+         x="63.080036"
+         y="-59.855743">droite</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000080;stroke-width:0.938995"
+         x="63.080036"
+         y="-12.906119"
+         id="tspan11413">(AB)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5597px;line-height:1.25;font-family:sans-serif;fill:#552200;fill-opacity:1;stroke:none;stroke-width:0.938995"
+       x="197.70601"
+       y="35.27528"
+       id="text6349-1-9"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="fill:#552200;stroke-width:0.938995"
+         x="197.70601"
+         y="35.27528"
+         id="tspan11413-0">M ∈ (AB)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5597px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.938995"
+       x="-6.8624268"
+       y="162.72316"
+       id="text6349-1-9-2"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke-width:0.938995"
+         x="-6.8624268"
+         y="162.72316"
+         id="tspan11413-0-3">N ∉ (AB)</tspan></text>
+    <g
+       id="g968-3-9"
+       transform="rotate(-45,27.602703,39.410702)"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke:#552200;fill:#803300"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#803300;stroke:#552200;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.353553,100.35355 40.198177,40.19818"
+         id="path857-5-3" />
+      <path
+         style="fill:#803300;stroke:#552200;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 80.353553,140.55173 120.55174,100.35355"
+         id="path857-3-6-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5597px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.938995"
+       x="-7.4823174"
+       y="124.92554"
+       id="text6349-0-2"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan6347-6-6"
+         style="fill:#008000;stroke:none;stroke-width:0.938995"
+         x="-7.4823174"
+         y="124.92554">N</tspan></text>
+    <g
+       id="g968-3-9-1"
+       transform="rotate(-45,25.606528,196.78046)"
+       style="fill:#008000;stroke:#008000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/appartenance.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#008000;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.353553,100.35355 40.198177,40.19818"
+         id="path857-5-3-8" />
+      <path
+         style="fill:#008000;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 80.353553,140.55173 120.55174,100.35355"
+         id="path857-3-6-6-7" />
+    </g>
+  </g>
+</svg>
