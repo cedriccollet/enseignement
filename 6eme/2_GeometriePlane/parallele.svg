@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="parallele.svg"
+   inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.49759092"
+     inkscape:cx="423.03826"
+     inkscape:cy="357.72357"
+     inkscape:window-width="1314"
+     inkscape:window-height="679"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="InfiniteLineStart"
+       inkscape:stockid="InfiniteLineStart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         transform="translate(-13,0)"
+         style="fill:context-stroke"
+         id="g1525">
+        <circle
+           cx="3"
+           cy="0"
+           r="0.8"
+           id="circle1519" />
+        <circle
+           cx="6.5"
+           cy="0"
+           r="0.8"
+           id="circle1521" />
+        <circle
+           cx="10"
+           cy="0"
+           r="0.8"
+           id="circle1523" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="InfiniteLineEnd"
+       inkscape:stockid="InfiniteLineEnd"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         style="fill:context-stroke"
+         id="g1516">
+        <circle
+           cx="3"
+           cy="0"
+           r="0.8"
+           id="circle1510" />
+        <circle
+           cx="6.5"
+           cy="0"
+           r="0.8"
+           id="circle1512" />
+        <circle
+           cx="10"
+           cy="0"
+           r="0.8"
+           id="circle1514" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="StopL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path11236" />
+    </marker>
+    <marker
+       inkscape:stockid="DistanceEnd"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceEnd"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g2301">
+        <path
+           id="path2316"
+           d="M 0,0 L -2,0"
+           style="fill:none;stroke:context-fill;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2312"
+           d="M 0,0 L -13,4 L -9,0 -13,-4 L 0,0 z "
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2314"
+           d="M 0,-4 L 0,40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="DistanceStart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceStart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g2300">
+        <path
+           id="path2306"
+           d="M 0,0 L 2,0"
+           style="fill:none;stroke:context-fill;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2302"
+           d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z "
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2304"
+           d="M 0,-4 L 0,40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="StopL-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,5.65 V -5.65"
+         id="path11236-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker29267"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,5.65 V -5.65"
+         id="path29265" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="StopL-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,5.65 V -5.65"
+         id="path11236-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker29364"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,5.65 V -5.65"
+         id="path29362" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.994028,21.289683 H 179.72687"
+       id="path28898-7"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 29.265057,69.04 H 158.9979"
+       id="path28898"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.7181px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542954"
+       x="162.8936"
+       y="12.293919"
+       id="text30575-36"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan30573-7"
+         style="fill:#000000;stroke-width:0.542954"
+         x="162.8936"
+         y="12.293919"
+         dx="0 0 0 0"
+         dy="0 0 0 0">(<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';word-spacing:0px;fill:#000000"
+   id="tspan3970"
+   dx="0"
+   dy="0"
+   rotate="0 0 0">d<tspan
+   style="font-size:65%;baseline-shift:sub;fill:#000000"
+   id="tspan11651">2</tspan></tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.7181px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.542954"
+       x="74.985344"
+       y="-10.886564"
+       id="text30575-36-2"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan30573-7-9"
+         style="fill:#000080;stroke-width:0.542954"
+         x="74.985344"
+         y="-10.886564"
+         dx="0 0 0"
+         dy="0 0 0">(<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';word-spacing:0px;fill:#000080"
+   id="tspan3970-1"
+   dx="0"
+   dy="0"
+   rotate="0 0">d</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.7181px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542954"
+       x="26.286684"
+       y="89.777481"
+       id="text30575-36-3"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan30573-7-5"
+         style="fill:#000000;stroke-width:0.542954"
+         x="26.286684"
+         y="89.777481"
+         dx="0 0 0 0"
+         dy="0 0 0 0">(<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';word-spacing:0px;fill:#000000"
+   id="tspan3970-6"
+   dx="0"
+   dy="0"
+   rotate="0 0 0">d<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan9625">1</tspan></tspan>)</tspan></text>
+    <path
+       style="fill:none;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 108.85,-22.468416 V 90.469075"
+       id="path1193"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 109.8,58.611935 h 10.05029"
+       id="path6713"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 119.32112,58.082768 v 10.05029"
+       id="path6713-5"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 109.8,10.829167 h 10.05029"
+       id="path6713-0"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 119.32112,10.3 V 20.35029"
+       id="path6713-5-9"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.029px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.325725"
+       x="30.217497"
+       y="111.33189"
+       id="text38623"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.325725"
+         x="30.217497"
+         y="111.33189"
+         id="tspan38629">Si (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.325725"
+   id="tspan42923">d<tspan
+   style="font-size:8.46882px;baseline-shift:sub;stroke-width:0.325725"
+   id="tspan43399">1</tspan></tspan>) ⊥ (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.325725"
+   id="tspan40941">d</tspan>) et (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.325725"
+   id="tspan40733">d<tspan
+   style="font-size:8.46882px;baseline-shift:sub;stroke-width:0.325725"
+   id="tspan43395">1</tspan></tspan>) // (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.325725"
+   id="tspan39015">d<tspan
+   style="font-size:8.46882px;baseline-shift:sub;stroke-width:0.325725"
+   id="tspan43391">2</tspan></tspan>)</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.325725"
+         x="30.217497"
+         y="127.61814"
+         id="tspan68070">alors (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan63634">d<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan63900">2</tspan></tspan>) ⊥ (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan57752">d</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.029px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.325725"
+       x="30.217497"
+       y="148.44084"
+       id="text38623-3"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/parallelesAvecPerpendiculaireProp2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.325725"
+         x="30.217497"
+         y="148.44084"
+         id="tspan38629-6">Si (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.325725"
+   id="tspan42923-0">d<tspan
+   style="font-size:8.46882px;baseline-shift:sub;stroke-width:0.325725"
+   id="tspan43399-6">1</tspan></tspan>) ⊥ (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.325725"
+   id="tspan40941-2">d</tspan>) et (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan79746">d<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan81398">2</tspan></tspan>) ⊥ (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan77032">d</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.325725"
+         x="30.217497"
+         y="164.7271"
+         id="tspan68070-9">alors (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.325725"
+   id="tspan40733-6">d<tspan
+   style="font-size:8.46882px;baseline-shift:sub;stroke-width:0.325725"
+   id="tspan43395-1">1</tspan></tspan>) // (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.325725"
+   id="tspan39015-8">d<tspan
+   style="font-size:8.46882px;baseline-shift:sub;stroke-width:0.325725"
+   id="tspan43391-7">2</tspan></tspan>)</tspan></text>
+  </g>
+</svg>

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="milieu.svg"
+   sodipodi:docname="distancePointDroite.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.2100119"
-     inkscape:cx="425.20242"
-     inkscape:cy="329.33559"
+     inkscape:zoom="0.59489861"
+     inkscape:cx="479.91371"
+     inkscape:cy="242.89853"
      inkscape:window-width="1296"
      inkscape:window-height="704"
      inkscape:window-x="0"
@@ -34,6 +34,63 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="InfiniteLineStart"
+       inkscape:stockid="InfiniteLineStart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         transform="translate(-13,0)"
+         style="fill:context-stroke"
+         id="g1525">
+        <circle
+           cx="3"
+           cy="0"
+           r="0.8"
+           id="circle1519" />
+        <circle
+           cx="6.5"
+           cy="0"
+           r="0.8"
+           id="circle1521" />
+        <circle
+           cx="10"
+           cy="0"
+           r="0.8"
+           id="circle1523" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="InfiniteLineEnd"
+       inkscape:stockid="InfiniteLineEnd"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         style="fill:context-stroke"
+         id="g1516">
+        <circle
+           cx="3"
+           cy="0"
+           r="0.8"
+           id="circle1510" />
+        <circle
+           cx="6.5"
+           cy="0"
+           r="0.8"
+           id="circle1512" />
+        <circle
+           cx="10"
+           cy="0"
+           r="0.8"
+           id="circle1514" />
+      </g>
+    </marker>
     <marker
        style="overflow:visible"
        id="StopL"
@@ -157,88 +214,118 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.99992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)"
-       d="M 61.015059,69.04 H 108.88191"
-       id="path28898"
-       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/milieu.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.99992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#StopL-2);marker-end:url(#StopL-2)"
-       d="m 108.86662,69.039638 h 47.86685"
-       id="path28898-8"
-       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/milieu.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:21.7181px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542954"
-       x="53.630329"
-       y="95.832581"
+       x="52.689159"
+       y="92.332581"
        id="text30575"
-       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/milieu.png"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan30573"
          style="stroke-width:0.542954"
-         x="53.630329"
-         y="95.832581">A</tspan></text>
+         x="52.689159"
+         y="92.332581">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:21.7181px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542954"
-       x="105.69894"
-       y="95.832581"
-       id="text30575-9"
-       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/milieu.png"
+       x="112.26093"
+       y="92.332581"
+       id="text30575-2"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan30573-8"
+         style="stroke-width:0.542954"
+         x="112.26093"
+         y="92.332581">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.7181px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542954"
+       x="110.21423"
+       y="28.333828"
+       id="text30575-36"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan30573-7"
-         style="stroke-width:0.542954"
-         x="105.69894"
-         y="95.832581">J</tspan></text>
+         style="stroke-width:0.542954;fill:#000000"
+         x="110.21423"
+         y="28.333828"
+         dx="0 0 0"
+         dy="0 0 0">(<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';word-spacing:0px;fill:#000000"
+   id="tspan3970"
+   dx="0"
+   dy="0"
+   rotate="0 0">d</tspan>)</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 108.85,5.1666323 V 109.79818"
+       id="path1193"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 109.52994,56.495267 h 10.05029"
+       id="path6713"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 119.05106,55.9661 V 66.01639"
+       id="path6713-5"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.7181px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542954"
-       x="148.86848"
-       y="95.832581"
-       id="text30575-3"
-       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/milieu.png"
+       style="font-style:normal;font-weight:normal;font-size:15.8915px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.397288"
+       x="12.200467"
+       y="119.92842"
+       id="text15685"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         id="tspan30573-6"
-         style="stroke-width:0.542954"
-         x="148.86848"
-         y="95.832581">B</tspan></text>
+         style="stroke-width:0.397288"
+         x="12.200467"
+         y="119.92842"
+         id="tspan19235">(AH) ⊥ (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.397288"
+   id="tspan16457">d</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.397288"
+         x="12.200467"
+         y="139.7928"
+         id="tspan103068">distance de A à (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan105560">d</tspan>) : AH</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 81.92357,78.19435 86.764056,60.12941"
-       id="path35395"
-       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/milieu.png"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.60196,56.443488 70.121374,76.962901"
+       id="path101914"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 85.191293,78.19435 4.84049,-18.06494"
-       id="path35395-1"
-       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/milieu.png"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.12138,56.443488 49.60196,76.962901"
+       id="path101914-2"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 130.48296,78.194341 135.32344,60.12941"
-       id="path35395-2"
-       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/milieu.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 133.75068,78.194341 138.59117,60.12941"
-       id="path35395-1-9"
-       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/milieu.png"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 25.532873,66.753333 H 145.01456"
+       id="path102199"
+       inkscape:export-filename="/home/cedric/EnseignementStagiaireBlancheDeCastille/6eme/2_GeometriePlane/distancePointDroite.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
